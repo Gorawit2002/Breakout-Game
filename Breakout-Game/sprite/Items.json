@@ -1,0 +1,31 @@
+{
+    "spriteSheetURL": "./graphics/breakout.png",
+    "size":[16,16],
+    "sprites": [
+          {
+            "name": "Heart Item",
+            "x": 32,
+            "y": 192,
+            "scalefactor":3,
+            "colorKey":-1
+          },
+          {
+            "name": "Ball_Speed",
+            "size": [64, 32], 
+            "x": 64,
+            "y": 192,
+            "scalefactor":3,
+            "colorKey":-1
+          },
+          {
+            "name": "Paddle_Speed",
+            "x": 80,
+            "y": 192,
+            "scalefactor":3,
+            "colorKey":-1
+          }
+        ]
+      }
+      
+
+
